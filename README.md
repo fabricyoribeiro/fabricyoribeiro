@@ -16,7 +16,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>-
 </div>
  <hr>
-- 📫 Entre em contato: *fabricyo.ribeiro@ufrpe.br*
+- 📫 Entre em contato: *<strong>fabricyo.ribeiro@ufrpe.br</strong>*
 </br>
 <h3 align="left">Tecnologias que conheço / Estou aprendendo</h3>
 
