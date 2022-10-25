@@ -4,7 +4,7 @@
 ## Me chamo Fabricyo
 
 - Bacharelando no curso de Sistemas de Informação na UFRPE.
-- Aprendendo ReactJS, JavaScript e TailwindCSS
+- Aprendendo React, JavaScript e Tailwind CSS
 - Desenvolvo para Web com ReactJS, TailwindCSS e JavaScript
 - Desenvolvo APIs com Python e NodeJS
 
