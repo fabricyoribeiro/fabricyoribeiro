@@ -4,10 +4,10 @@
 ## Me chamo Fabricyo
 
 - Bacharelando no curso de Sistemas de Informação na UFRPE.
-- Aprendendo HTML, CSS, JavaScript e Python.
-- Desenvolvo para Web com HTML, CSS e JavaScript
+- Aprendendo ReactJS, JavaScript e Python.
+- Desenvolvo para Web com ReactJS, TailwindCSS e NodeJS para back-end
 - Desenvolvo aplicações desktop usando Java
-- Desenvolvo APIs com Python
+- Desenvolvo APIs com Python e NodeJS
 
 <div style="display: inline_block"><br>-
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
