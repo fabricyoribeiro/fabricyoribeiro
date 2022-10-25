@@ -6,7 +6,6 @@
 - Bacharelando no curso de Sistemas de Informação na UFRPE.
 - Aprendendo ReactJS, JavaScript e Python.
 - Desenvolvo para Web com ReactJS, TailwindCSS e NodeJS para back-end
-- Desenvolvo aplicações desktop usando Java
 - Desenvolvo APIs com Python e NodeJS
 
 <div style="display: inline_block"><br>-
@@ -14,7 +13,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>-
 </div>
  <hr>
