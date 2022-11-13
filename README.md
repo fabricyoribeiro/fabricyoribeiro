@@ -20,6 +20,7 @@
 </div>
  <hr>
 - 📫 Entre em contato: <strong>fabricyo.ribeiro@ufrpe.br</strong>
+  <hr>
 </br>
 
 <!--
