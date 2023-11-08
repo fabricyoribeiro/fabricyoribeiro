@@ -20,7 +20,7 @@
 
 </div>
  <hr>
-- 📫 Entre em contato: <strong>fabricyo.ribeiro@ufrpe.br</strong>
+- 📫 Entre em contato: <strong>fabricyosilva600@gmail.com</strong>
   <hr>
 </br>
 
