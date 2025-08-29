@@ -3,7 +3,7 @@
 
 ## Me chamo Fabricyo
 
-- Bacharelado em Sistemas de Informação na UFRPE
+- Bacharel em Sistemas de Informação na UFRPE
 
 - Linguagens: Node, JavaScript, TypeScript, Python, Java
 - Tecnologias: React, React Native, TailwindCSS, Prisma, Next.js, Express, PostgreSQL
